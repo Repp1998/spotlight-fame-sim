@@ -1,0 +1,13 @@
+{
+  "name": "spotlight-fame-sim",
+  "version": "0.4.1",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "netlify dev",
+    "build": "node -e \"console.log('Static Spotlight build')\""
+  },
+  "devDependencies": {
+    "@netlify/functions": "latest"
+  }
+}
